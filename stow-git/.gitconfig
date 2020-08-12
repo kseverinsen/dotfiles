@@ -3,7 +3,7 @@
 	name = Per Øyvind Kanestrøm
 [core]
 	editor = nvr --remote-wait-silent
-    pager = less -r
+        pager = less -r
 	excludesfile = /Users/perkanestrom/.gitignore_global
 	autocrlf = input
 	commitGraph = true
